@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 07 2019 22:33:33 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-7-9-2019-17-54-39.txt
+* .autogit/logs/log-7-9-2019-17-58-14.txt
+* .autogit/logs/log-7-9-2019-18-0-1.txt
+
+
+Deleted files:
+
+
+Renamed files:
