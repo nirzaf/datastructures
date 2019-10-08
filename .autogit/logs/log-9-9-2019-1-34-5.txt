@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Oct 09 2019 01:34:05 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-9-9-2019-1-30-38.txt
+* Program.cs
+* datastructures.csproj
+
+
+Deleted files:
+
+
+Renamed files:
