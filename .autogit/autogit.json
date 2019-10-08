@@ -1,4 +1,5 @@
 {
-  "updateInterval": 15,
-  "logging": true
+  "updateInterval": 30,
+  "logging": true,
+  "silent": true
 }
