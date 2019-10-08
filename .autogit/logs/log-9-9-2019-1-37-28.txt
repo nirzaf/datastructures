@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Oct 09 2019 01:37:28 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-9-9-2019-1-34-5.txt
+* .vscode/tasks.json
+* obj/Debug/netcoreapp3.0/datastructures.AssemblyInfo.cs
+
+
+Deleted files:
+
+
+Renamed files:
